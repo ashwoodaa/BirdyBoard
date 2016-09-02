@@ -3,6 +3,8 @@
 
 In this app, users will create and read public and private messages via terminal input.
 
+![BirdyBoardAshwoodAAScreenShot](https://github.com/ashwoodaa/BirdyBoard/blob/master/ScreenShot.PNG)
+
 ## Instructions
 
 Create a series of prompts for a user interface that allows people to create an account and then create messages in a twitter/message board hybrid. You will be using serialization via pickle to store the users and the chirps to disk so that they persist between execution of the main application.
